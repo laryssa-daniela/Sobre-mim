@@ -1,6 +1,6 @@
 ### Oie, esse é o meu perfil 👋😁
-     
-     Meu nome é Laryssa
+
+Meu nome é Laryssa
 
 - Estou estudando pela Plataforma Alura
 - Estou iniciando na liguagem JavaScript
